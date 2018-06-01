@@ -12,7 +12,6 @@
 }
 }
 
-
 * {
 font-family: Roboto;
 }
@@ -644,35 +643,8 @@ table.box2 {
     width: 100%;
     background-color: #2b2a2b
 }
-#menu li:nth-child(1) {
-    background-color: #cb403a
-}
-#menu li:nth-child(2) {
-    background-color: #c13c34
-}
-#menu li:nth-child(3) {
-    background-color: #b53731
-}
-#menu li:nth-child(4) {
-    background-color: #aa332d
-}
-#menu li:nth-child(5) {
-    background-color: #9f302a
-}
-#menu li:nth-child(6) {
-    background-color: #952d27
-}
-#menu li:nth-child(7) {
-    background-color: #8a2b25
-}
-#menu li:nth-child(8) {
-    background-color: #7e2722
-}
-#menu li:nth-child(9) {
-    background-color: #73231f
-}
-#menu li:nth-child(10) {
-    background-color: #69201b
+#menu li {
+    background-color: #cc3333
 }
 
 #userinfo_username {
